@@ -23,13 +23,13 @@ module "random_password" {
 | Name | Version |
 | ---- | ------- |
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.11.1 |
-| <a name="requirement_kubernetes"></a> [kubernetes](#requirement\_kubernetes) | >= 3.9 |
+| <a name="requirement_random"></a> [random](#requirement\_random) | >= 3.9 |
 
 ## Providers
 
 | Name | Version |
 | ---- | ------- |
-| <a name="provider_random"></a> [random](#provider\_random) | 3.9.1 |
+| <a name="provider_random"></a> [random](#provider\_random) | >= 3.9 |
 
 ## Inputs
 
